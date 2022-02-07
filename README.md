@@ -1,1 +1,1 @@
-# CTS_ssmini
+# CTS_ssminiproject
